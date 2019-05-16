@@ -1,2 +1,29 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<link href="https://fonts.googleapis.com/css?family=Rye" rel="stylesheet">
+	<style>
+	body{
+		background:url(sewingBG.jpeg)no-repeat center center fixed;
+		background-size: cover;
+		color: white;
+		font-family: 'Rye', cursive;
+	}
+	h1{
+		font-size: 4em;
+	}
+	p {
+		font-size: 42px;
+	}
+	</style>
+</head>
+<body>
+
+<h1> My Intrest by Danae</h1>
+
+
+<p>My interest is rustic steampunk fashion and sewing. I have always had an eye for rustic houses, rooms that have a Europian theme or kitchens that have a rustic medieval feel. 
+	<img src="small-rustic-home.jpeg"><img src="rustic-kitchen.jpeg"><img src="Rustic-Bedroom.jpeg"></p>
+</body>
+</html>
